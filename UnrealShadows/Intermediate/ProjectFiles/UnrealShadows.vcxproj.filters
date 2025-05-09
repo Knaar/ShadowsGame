@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealShadows.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealShadows.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealShadowsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealShadows">
+      <UniqueIdentifier>{19141D03-68AF-3853-8B11-D1313FC0B528}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealShadows\UnrealShadows.Build.cs">
+      <Filter>Source\UnrealShadows</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealShadows\UnrealShadows.cpp">
+      <Filter>Source\UnrealShadows</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealShadows\UnrealShadows.h">
+      <Filter>Source\UnrealShadows</Filter>
+    </ClInclude>
+    <Filter Include="Source\UnrealShadows\Private">
+      <UniqueIdentifier>{11FED994-FD40-3168-92EE-D22EB44BA288}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealShadows\Private\US_Character.cpp">
+      <Filter>Source\UnrealShadows\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealShadows\Private\US_GameInstance.cpp">
+      <Filter>Source\UnrealShadows\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealShadows\Private\US_GameMode.cpp">
+      <Filter>Source\UnrealShadows\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealShadows\Private\US_GameState.cpp">
+      <Filter>Source\UnrealShadows\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealShadows\Private\US_PlayerController.cpp">
+      <Filter>Source\UnrealShadows\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UnrealShadows\Private\US_PlayerState.cpp">
+      <Filter>Source\UnrealShadows\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\UnrealShadows\Public">
+      <UniqueIdentifier>{AC2FEECD-1018-37FF-A573-C55F737E2FCD}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UnrealShadows\Public\US_Character.h">
+      <Filter>Source\UnrealShadows\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealShadows\Public\US_GameInstance.h">
+      <Filter>Source\UnrealShadows\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealShadows\Public\US_GameMode.h">
+      <Filter>Source\UnrealShadows\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealShadows\Public\US_GameState.h">
+      <Filter>Source\UnrealShadows\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealShadows\Public\US_PlayerController.h">
+      <Filter>Source\UnrealShadows\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UnrealShadows\Public\US_PlayerState.h">
+      <Filter>Source\UnrealShadows\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

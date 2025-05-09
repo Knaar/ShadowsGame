@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealShadows",
+			"Path": "..\\Source\\UnrealShadows.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealShadowsEditor",
+			"Path": "..\\Source\\UnrealShadowsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UE_Projects/Multiplayer-Game-Development-with-Unreal-Engine-5-main/UnrealShadows/Content/Maps/Level_Boss.umap",
+				"C:/UE_Projects/Multiplayer-Game-Development-with-Unreal-Engine-5-main/UnrealShadows/Content/Blueprints/BP_Character.uasset",
+				"C:/UE_Projects/Multiplayer-Game-Development-with-Unreal-Engine-5-main/UnrealShadows/Content/Input/IA_Iteract.uasset",
+				"C:/UE_Projects/Multiplayer-Game-Development-with-Unreal-Engine-5-main/UnrealShadows/Content/Input/IA_Sprint.uasset",
+				"C:/UE_Projects/Multiplayer-Game-Development-with-Unreal-Engine-5-main/UnrealShadows/Content/Input/IA_Move.uasset",
+				"C:/UE_Projects/Multiplayer-Game-Development-with-Unreal-Engine-5-main/UnrealShadows/Content/Input/IA_Look.uasset",
+				"C:/UE_Projects/Multiplayer-Game-Development-with-Unreal-Engine-5-main/UnrealShadows/Content/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}

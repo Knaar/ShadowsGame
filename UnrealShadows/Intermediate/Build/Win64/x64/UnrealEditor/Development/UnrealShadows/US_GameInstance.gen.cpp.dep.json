@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealshadows\\uht\\us_gameinstance.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\intermediate\\build\\win64\\x64\\unrealshadowseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealshadows\\definitions.unrealshadows.h",
+            "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\source\\unrealshadows\\public\\us_gameinstance.h",
+            "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealshadows\\uht\\us_gameinstance.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

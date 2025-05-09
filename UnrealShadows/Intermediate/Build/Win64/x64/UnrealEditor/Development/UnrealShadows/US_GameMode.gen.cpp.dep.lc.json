@@ -1,0 +1,43 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealshadows\\uht\\us_gamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\intermediate\\build\\win64\\x64\\unrealshadowseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealshadows\\definitions.unrealshadows.h",
+            "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\source\\unrealshadows\\public\\us_gamemode.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemode.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemode.generated.h",
+            "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\source\\unrealshadows\\public\\us_gamestate.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamestate.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamestatebase.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamestatebase.generated.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamestate.generated.h",
+            "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealshadows\\uht\\us_gamestate.generated.h",
+            "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\source\\unrealshadows\\public\\us_playercontroller.h",
+            "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealshadows\\uht\\us_playercontroller.generated.h",
+            "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\source\\unrealshadows\\public\\us_playerstate.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerstate.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerstate.generated.h",
+            "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealshadows\\uht\\us_playerstate.generated.h",
+            "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\source\\unrealshadows\\public\\us_character.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\ue_engines\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealshadows\\uht\\us_character.generated.h",
+            "c:\\ue_projects\\multiplayer-game-development-with-unreal-engine-5-main\\unrealshadows\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealshadows\\uht\\us_gamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

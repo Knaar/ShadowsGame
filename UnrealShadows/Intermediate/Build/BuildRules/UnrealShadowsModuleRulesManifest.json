@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UE_Projects\\Multiplayer-Game-Development-with-Unreal-Engine-5-main\\UnrealShadows\\Source\\UnrealShadows\\UnrealShadows.Build.cs",
+		"C:\\UE_Projects\\Multiplayer-Game-Development-with-Unreal-Engine-5-main\\UnrealShadows\\Source\\UnrealShadows.Target.cs",
+		"C:\\UE_Projects\\Multiplayer-Game-Development-with-Unreal-Engine-5-main\\UnrealShadows\\Source\\UnrealShadowsEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
